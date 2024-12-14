@@ -1,6 +1,6 @@
 # De Elektraman
 
-![Thumbnail](./src/assets/logo.png)
+![Thumbnail](/src/assets/logo.png)
 
 **De Elektraman** is a modern website built with **Vue 3** and **Vite** to showcase the services and expertise of an electrical company. It includes a professional layout, contact form, project gallery, and service pages, designed to attract and engage clients. The site is hosted on **Strato** and optimized for performance, scalability, and user experience.
 
